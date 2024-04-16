@@ -242,12 +242,8 @@ table 60001 "SC Prod.Settlement Header"
             Rec."Settlement Type"::Production:
                 BEGIN
                     ManufacturingSetup.GET;
-
-                    /// KPI Przenoszenie rozwiązania z projektu WEN "Settlement Cost"
-                    /*
                     ManufacturingSetup.TESTFIELD("Prod. Settl. Cost Nos.");
                     NosCode := ManufacturingSetup."Prod. Settl. Cost Nos.";
-                    */
                 END;
 
             Rec."Settlement Type"::Assembly:
