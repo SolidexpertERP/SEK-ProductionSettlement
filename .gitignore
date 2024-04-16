@@ -7,5 +7,5 @@
 **/rad.json
 .altemplates/
 .snapshots/
-**/.alpackages/
+.alpackages/
 .alcache/
