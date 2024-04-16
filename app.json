@@ -2,7 +2,7 @@
   "id": "5336b91e-9ce4-4d61-a29f-4c01a54e6fb5",
   "name": "SEK-ProductionSettlement",
   "publisher": "Solidexpert Polska",
-  "version": "23.1.0.0",
+  "version": "23.1.1.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -10,50 +10,7 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [
-    {
-      "id": "793a48a3-3dff-45c4-bfc6-93b3b655a6b2",
-      "name": "Base Extension",
-      "publisher": "Solidexpert Polska",
-      "version": "1.0.0.0"
-    },
-    {
-      "id": "a41facb4-aa1f-4f4b-a6d5-a574d9a33911",
-      "name": "Polish Localization",
-      "publisher": "IT.integro sp. z o.o.",
-      "version": "1.0.0.0"
-    },
-    {
-      "id": "814e15ad-69eb-43cc-ac3f-4f0f3d10ff3c",
-      "name": "Electronic Banking Base App",
-      "publisher": "IT.integro sp. z o.o.",
-      "version": "1.0.0.0"
-    },
-    {
-      "id": "7844f78e-679b-461f-850f-2bf4e7d7d4d2",
-      "name": "Sharepoint Integration",
-      "publisher": "Solidexpert Polska",
-      "version": "1.0.0.0"
-    },
-    {
-      "id": "50bae306-61a0-4416-8ced-c1b51016d33a",
-      "name": "Sharepoint Notifications Configuration",
-      "publisher": "Solidexpert Polska",
-      "version": "1.0.0.0"
-    },
-    {
-      "id": "d34fca05-abbd-4b09-bf37-fdc5f886b8fa",
-      "name": "Notification",
-      "publisher": "Solidexpert Polska",
-      "version": "1.0.0.0"
-    },
-    {
-      "id": "8615bb30-db2e-4f3f-8f10-98cce629ced9",
-      "name": "Standard Purchase",
-      "publisher": "Solidexpert Polska",
-      "version": "1.0.0.0"
-    }
-  ],
+  "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "21.0.0.0",

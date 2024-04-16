@@ -1,0 +1,1214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="SEK-ProductionSettlement">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2231025716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MPK - Nr kont do rozliczenia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Account No. - MPK Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2231025716 - Field 596681342 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr konta grupy 4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Account No. - MPK Code - Field Account No. 4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2231025716 - Field 3616255404 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr konta grupy 6</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Account No. - MPK Code - Field Account No. 6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2231025716 - Field 2978558787 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr konta grupy7</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Account No. - MPK Code - Field Account No. 7 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2231025716 - Field 3527373194 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kod MPK</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Account No. - MPK Code - Field MPK Dimension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2231025716 - Field 3618073952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kod typu prac</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Account No. - MPK Code - Field Work Type Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kwota</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 487681911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kwota do przypisania</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Amount to set - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 3676636176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Moc nominalna</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Capacity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 2556136339 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kwota kredyt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Credit Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 2796346326 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kwota debet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Debit Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opis</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 3322554545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Identyfikator zestawu wymiarów</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Dimension Set ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 580412389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data dokumentu</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Document Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr dokumentu</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Typ dokumentu</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr dokumentu zewnętrznego</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field External Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 3180284910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Koszty stałe - suma</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Fixed Costs Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 262311369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Koszt stały/zmienny</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Fixed/Variable Costs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 3852983238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr konta K/G</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field G/L Account No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 3673555316 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr dokumentu</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field G/L Entry Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 1411740825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr zapisu K/G</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field G/L Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr wiersza</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 84999313 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kwota do przypisania</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field NMP Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 2268191751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Obiekt koszt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field OBIEKT Dim Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 297741006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Procent wykorzystania</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Percentage Of Use - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data księgowania</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ilość</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 2843714403 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Godziny rzeczywiste</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Real Hours - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 102903639 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Typ rozliczenia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Settlement Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 1882905478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr źródła</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Source No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 1753214751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Typ źródła</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Source Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 483115950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Koszty zmienne - suma</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field Variable Costs Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 737860740 - Field 1108276017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kowata VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Source Line - Field VAT Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nagłówek dokumentu rozliczenia produkcji</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 2889404945 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alokowane koszty stałe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Allocated Fixed Costs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 1056139929 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alokowane koszty zmienne</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Allocated Variable Costs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 487681911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kwota do przypisania</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Amount to set - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 3549933318 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Koszty do rozliczenia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Amount to Settlement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 1033037624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zapas zlecenia kompletacji</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Assembly Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 3676636176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Moc nominalna</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Capacity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 3548467447 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Consummated Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Consummated Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 3414270458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zmienne - zaksięgowane</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Direct Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr dokumentu</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 741119827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do zaksięgowania - stałe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Fixed Amount To Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 1158718381 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suma kosztów stałych</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Fixed Cost - Sum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 1255104380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zapas kosztów stałych</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Fixed Cost Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 3180284910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Koszty stałe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Fixed Costs Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 431916060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Godziny nominalne do przyjęcia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Fixed Time To Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 262311369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Koszty stałe/zmienne</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Fixed/Variable Costs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 3852983238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr konta K/G</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field G/L Account No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 908368965 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suma kosztów</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field General Cost - Sum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 2684044605 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr zapisu ks. zapasów</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Item Ledger Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 1908272084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr zlecenia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Job No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 4214889165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr wiersza planowania zlecenia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Job Planning Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 561421623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr zadania zlecenia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Job Task No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr wiersza</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 158172202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Typ wiersza</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Line Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 84999313 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kwota NMP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field NMP Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 2268191751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Obiekt Koszt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field OBIEKT Dim Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 297741006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Procent wykorzystania</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Percentage Of Use - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 1941111970 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zaksięgowane koszty rzeczywiste</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Posted Asb. Real Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 1899718125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zaksięgowana ilość</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Posted Assembly Qty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 1883385955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rozliczenie produkcji - podsumowanie</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Posted Costs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 3335206870 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Przyjęte godziny nominalne</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Posted Fixed Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 2709413262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Przyjęte godziny rzeczywiste</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Posted Variable Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 2138704244 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr wiersza zlec. prod.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Prod. Order Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 683691527 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stan</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Prod. Order Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 743612366 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr zlecenia produkcyjnego</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Production Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 2843714403 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Godziny rzeczywiste</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Real Hours - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 2293044863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filtr grupy zasobów</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Resource Group Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 917124057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Godziny do zużycia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Time To Consum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 2094446483 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do zaksięgowania - zmienne</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Variable Amount To Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 2641050477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suma kosztów zmiennych</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Variable Cost - Sum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 2270614716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zapas kosztów zmiennych</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Variable Cost Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 483115950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Koszty zmienne</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Variable Costs Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 1860712284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Godziny rzeczywiste do przyjęcia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Variable Time To Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 3450651614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kod wariantu</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Variant Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 826891862 - Field 3618073952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Typ pracy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod. Settl. Summary Lines - Field Work Type Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nagłówek dokumentu rozliczenia produkcji</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 3604887283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr konta (4*)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field Account No. (4*) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 518210373 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr konta (6*)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field Account No. (6*) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 1715891438 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr konta (7*)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field Account No. (7*) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 3811590374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data od</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field Date From - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 2164282105 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data do</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field Date To - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opis</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 580412389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data dokumentu</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field Document Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Typ dokumentu</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 1255104380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zapas kosztów stałych</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field Fixed Cost Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 825283711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wartość wym. dla kosztów stałych</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field Fixed Costs Dim Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 2446257311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filtr konta K/G</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field G/L Account Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 612449607 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filtr wymiaru KALKULACJA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field KALKULACJA Dim Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 3527370234 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filtr wymiaru MPK</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field MKP Dim Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 3465500804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Miesiąc</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field Month - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr dokumentu</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 3689479295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filtr wymiaru PROJEKT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field PROJEKT Dim Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 102903639 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Typ rozliczenia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field Settlement Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 129688762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Użytkownik</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field User Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 2270614716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zapas kosztów zmiennych</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field Variable Cost Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 4128118335 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wartość wym. dla kosztów zmiennych</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field Variable Costs Dim Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 3833796912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filtr Kodu typu prac</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field Work Type Code Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3341481175 - Field 2832340769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rok</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SC Prod.Settlement Header - Field Year - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1238603489 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Szczegółowe wiersze sumaryczne</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Asb. Settl. Det. Dest. Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1238603489 - Control 741119827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Koszty do zaksięgowania</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Asb. Settl. Det. Dest. Line - Control Fixed Amount To Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1238603489 - Control 2268191751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Obiekt Koszt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Asb. Settl. Det. Dest. Line - Control OBIEKT Dim Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1238603489 - Control 904366833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Godziny do zużycia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Asb. Settl. Det. Dest. Line - Control TimeToConsum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 835658508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Podsumowanie</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Asb. Settl. Subform Sum Lin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 835658508 - Control 3414270458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direct Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Asb. Settl. Subform Sum Lin - Control Direct Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 835658508 - Control 4055096738 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Koszty do zaksięgowania</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Asb. Settl. Subform Sum Lin - Control GeneralSumToPost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 835658508 - Control 2268191751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Obiekt Koszt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Asb. Settl. Subform Sum Lin - Control OBIEKT Dim Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 567093889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rozliczenie kompletacji</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Assembly Settlement Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 567093889 - Control 284195533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filtry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Assembly Settlement Card - Control Filters - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 567093889 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ogólne</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Assembly Settlement Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 567093889 - Action 974603686 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wygeneruj wiersze dziennika</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Assembly Settlement Card - Action Generate Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 567093889 - Action 1692438242 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wygeneruj dzien. przeszacowań</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Assembly Settlement Card - Action Generate Revaluation Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 567093889 - Action 4137051400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nowe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Assembly Settlement Card - Action New - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 567093889 - Action 658217817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Oblicz alokację kosztów</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Assembly Settlement Card - Action Oblicz alokację kosztów - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 567093889 - Action 3083430170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wygeneruj</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Assembly Settlement Card - Action Process Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1800160607 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Podsumowanie</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Job Settl. Det. Dest. Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1800160607 - Control 2268191751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Obiekt Koszt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Job Settl. Det. Dest. Lines - Control OBIEKT Dim Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1800160607 - Control 2094446483 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alokowane koszty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Job Settl. Det. Dest. Lines - Control Variable Amount To Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2073116474 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rozliczenie zleceń</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Job Settlement Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2073116474 - Control 284195533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filtry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Job Settlement Card - Control Filters - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2073116474 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ogólne</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Job Settlement Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2073116474 - Action 1583352490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wygeneruj dzien. K/G zleceń</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Job Settlement Card - Action Generate Gen. Jnl. Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2073116474 - Action 974603686 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wygeneruj wiersze dziennika</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Job Settlement Card - Action Generate Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2073116474 - Action 4137051400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nowe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Job Settlement Card - Action New - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2073116474 - Action 658217817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Oblicz alokację kosztów</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Job Settlement Card - Action Oblicz alokację kosztów - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2073116474 - Action 3083430170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wygeneruj</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Job Settlement Card - Action Process Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 410671036 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rozliczenie zleceń</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Job Settlement List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 410671036 - Action 974603686 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wygeneruj wiersze dziennika</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Job Settlement List - Action Generate Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 410671036 - Action 4137051400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nowe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Job Settlement List - Action New - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2035333486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Map. nr kont do wymiaru MPK</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC MPK - Account No. to Settl. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 56156837 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Szczegółowe wiersze sumaryczne</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Prod. Settl. Det. Dest. Lin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 56156837 - Control 2268191751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Obiekt Koszt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Prod. Settl. Det. Dest. Lin - Control OBIEKT Dim Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 56156837 - Control 904366833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Godziny do zużycia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Prod. Settl. Det. Dest. Lin - Control TimeToConsum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2379784334 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Szczegółowe wiersze sumaryczne</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Prod. Settl. Det. Src. Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2379784334 - Control 2268191751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Obiekt Koszt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Prod. Settl. Det. Src. Line - Control OBIEKT Dim Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3575504101 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rozliczenie produkcji - wiersze źródłowe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Prod. Settl. Source Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3575504101 - Action 2256583518 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zapis</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Prod. Settl. Source Lines - Action Ent&amp;ry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3575504101 - Action 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wymiary</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Prod. Settl. Source Lines - Action Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3575504101 - Action 1405007275 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nawiguj</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Prod. Settl. Source Lines - Action &amp;Navigate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850797552 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Podsumowanie</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Prod. Settl. Subform Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850797552 - Control 3414270458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Koszty zaksięgowane</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Prod. Settl. Subform Lines - Control Direct Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850797552 - Control 2268191751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Obiekt Koszt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Prod. Settl. Subform Lines - Control OBIEKT Dim Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850797552 - Control 2149977725 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Koszt jednostkowy - stałe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Prod. Settl. Subform Lines - Control UnitFixedCost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850797552 - Control 2764844877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Koszt jednostkowy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Prod. Settl. Subform Lines - Control UnitVariableCost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850797552 - Control 23416147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Koszty do zaksięgowania</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Prod. Settl. Subform Lines - Control VariableAmountToPost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850797552 - Control 435159708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Godziny rzeczywiste do przyjęcia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Prod. Settl. Subform Lines - Control VariableTimeToPost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 60272017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Utwórz nowy dokument rozliczenia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Production Settl. Dialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 60272017 - Control 3465500804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Miesiąc</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Production Settl. Dialog - Control Month - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 60272017 - Control 2832340769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rok</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Production Settl. Dialog - Control Year - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4101195830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rozliczenie produkcji</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Production Settlement Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4101195830 - Control 284195533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filtry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Production Settlement Card - Control Filters - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4101195830 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ogólne</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Production Settlement Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4101195830 - Action 2899599422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wygeneruj dziennik zużycia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Production Settlement Card - Action Generate Consumption Journal Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4101195830 - Action 600211837 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wygeneruj dziennik zapasów</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Production Settlement Card - Action Generate Item Jnl Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4101195830 - Action 974603686 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wygeneruj wiersze dziennika</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Production Settlement Card - Action Generate Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4101195830 - Action 3790135714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wygeneruj dziennik przeszacowań</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Production Settlement Card - Action Generate Revaluationl Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4101195830 - Action 4137051400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nowe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Production Settlement Card - Action New - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4101195830 - Action 658217817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Oblicz alokację kosztów</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Production Settlement Card - Action Oblicz alokację kosztów - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4101195830 - Action 3083430170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wygeneruj</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Production Settlement Card - Action Process Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1267574960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rozliczenia produkcji</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Production Settlement List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1267574960 - Action 974603686 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wygeneruj wiersze dziennika</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Production Settlement List - Action Generate Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1267574960 - Action 4137051400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nowe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Production Settlement List - Action New - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3885852812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Podsumowanie</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Settl. Subform Sum Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3885852812 - Control 2268191751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Obiekt Koszt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SC Settl. Subform Sum Lines - Control OBIEKT Dim Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2980495575 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generowanie dziennika przeszacowań</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Asb. Settl. Revaluation Lin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2980495575 - Control 2623159130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ustawienia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Asb. Settl. Revaluation Lin - Control Ustawienia - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2980495575 - Control 3541712948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instancja dziennika</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Asb. Settl. Revaluation Lin - Control ItemJournalBatch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2980495575 - Control 3547667656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Szablon dziennika</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Asb. Settl. Revaluation Lin - Control ItemJournalTemplate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2980495575 - Control 3037438984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data księgowania</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Asb. Settl. Revaluation Lin - Control PostingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1301918524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generowanie dziennika</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Generate Gen. Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1301918524 - RequestPage 2516438534 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generate Gen. Journal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Generate Gen. Journal - RequestPage RequestOptionsPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1301918524 - Control 1622979514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Generate Gen. Journal - Control Account No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1301918524 - Control 1891586249 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bal. Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Generate Gen. Journal - Control Bal. Account No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1301918524 - Control 3182586253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Generate Gen. Journal - Control Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1301918524 - Control 3684440170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Template Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Generate Gen. Journal - Control Journal Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1301918524 - Control 3037438984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Generate Gen. Journal - Control PostingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3223690610 - Control 2623159130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ustawienia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Job Gen. Jnl. Lines - Control Ustawienia - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3223690610 - Control 189954099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instancja dziennika</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Job Gen. Jnl. Lines - Control GenJournalBatch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3223690610 - Control 3491986895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Szablon dziennika</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Job Gen. Jnl. Lines - Control GenJournalTemplate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3223690610 - Control 3037438984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data księgowania</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Job Gen. Jnl. Lines - Control PostingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1952096803 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rozliczenie zleceń</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Process Job Settlement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1952096803 - Method 711641238 - NamedType 1968265393" size-unit="char" translate="yes" xml:space="preserve">
+          <source>''</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Process Job Settlement - Method CheckMandatoryDimensions - NamedType subs</note>
+        </trans-unit>
+        <trans-unit id="Report 1952096803 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opcje</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Process Job Settlement - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1952096803 - Control 4227387620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Przelicz wszystko na nowo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Process Job Settlement - Control StartAgain - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4155827771 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pobieranie zaksięgowanych kosztów</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Process Prod. Settlement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4155827771 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opcje</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Process Prod. Settlement - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4155827771 - Control 2036334442 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pomiń zamkniete zlecenia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Process Prod. Settlement - Control SkipClosedOrders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4155827771 - Control 4227387620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Przelicz wszystko na nowo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Process Prod. Settlement - Control StartAgain - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3297160243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generowanie dziennika zapasów</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Prod. Item Jnl. Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3297160243 - Control 2623159130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ustawienia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Prod. Item Jnl. Lines - Control Ustawienia - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3297160243 - Control 3541712948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instancja dziennika</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Prod. Item Jnl. Lines - Control ItemJournalBatch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3297160243 - Control 3547667656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Szablon dziennika</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Prod. Item Jnl. Lines - Control ItemJournalTemplate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3297160243 - Control 3037438984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data księgowania</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Prod. Item Jnl. Lines - Control PostingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3297160243 - Control 2512508791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wycofaj zaks. zapisy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Prod. Item Jnl. Lines - Control UndoSettlement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 966126739 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generowanie dziennika zużycia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Prod. Settl. Consump. Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 966126739 - Control 2623159130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ustawienia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Prod. Settl. Consump. Lines - Control Ustawienia - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 966126739 - Control 3541712948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instancja dziennika</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Prod. Settl. Consump. Lines - Control ItemJournalBatch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 966126739 - Control 3547667656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Szablon dziennika</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Prod. Settl. Consump. Lines - Control ItemJournalTemplate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 966126739 - Control 3037438984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data księgowania</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Prod. Settl. Consump. Lines - Control PostingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1433429048 - Control 2623159130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ustawienia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Prod. Settl. Reval. Lines - Control Ustawienia - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1433429048 - Control 3541712948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instancja dziennika</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Prod. Settl. Reval. Lines - Control ItemJournalBatch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1433429048 - Control 3547667656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Szablon dziennika</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Prod. Settl. Reval. Lines - Control ItemJournalTemplate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1433429048 - Control 3037438984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data księgowania</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SC Prod. Settl. Reval. Lines - Control PostingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1392495851 - Field 1892880455 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1720227611">
+          <source>Seria num. rozliczania kosztu kompletacji</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SC Assembly Setup - Field Assembly Settl. Cost Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 803939488 - Field 633819257 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3016146544">
+          <source>Gł. gospodarcza grupa księgowa</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SC Item Journal Template - Field Gen. Bus. Posting Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4181470029 - Field 3553102936 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2556642749">
+          <source>Seria numeracji rozliczania kosztu zleceń</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SC Jobs Setup - Field Job Settl. Cost Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2106590233 - Field 3846297168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1379888169">
+          <source>Seria numeracji rozliczania produkcji</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SC Manufacturing Setup - Field Prod. Settl. Cost Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 39904855 - Field 1910606658 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4267907655">
+          <source>Filtr grupy zasobów</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SC Resource Group - Field Default Resource Group Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2780268729 - EnumValue 3083748138 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Korekta</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Document Type - EnumValue Correction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2780268729 - EnumValue 2197284175 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rozliczenie</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Document Type - EnumValue Settlement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4250739513 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Koszty stałe/zmienne</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Fixed/Variable Costs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4250739513 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Fixed/Variable Costs - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4250739513 - EnumValue 744835066 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stałe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Fixed/Variable Costs - EnumValue Fixed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4250739513 - EnumValue 2371676730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zmienne</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Fixed/Variable Costs - EnumValue Variable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1124094588 - EnumValue 3630787566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wiersze wygenerowane</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Header Status - EnumValue Lines Generated - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1124094588 - EnumValue 4137051400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nowe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Header Status - EnumValue New - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1124094588 - EnumValue 35450067 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Przeksięgowane</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Header Status - EnumValue Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 582161671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Typ wiersza rozliczenia produkcji</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Line Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 582161671 - EnumValue 1001413975 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suma szczeg. zap. zd. prod.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Line Type - EnumValue Detailed Dest Sum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 582161671 - EnumValue 408803242 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suma szczeg. zap. źródłowych</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Line Type - EnumValue Detailed Source Sum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 582161671 - EnumValue 1078695591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suma ogólna</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Line Type - EnumValue General Sum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3402655170 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Source Type - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3402655170 - EnumValue 1682139193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Konto bankowe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Source Type - EnumValue Bank Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3402655170 - EnumValue 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nabywca</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Source Type - EnumValue Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3402655170 - EnumValue 372951706 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Środek trwały</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Source Type - EnumValue Fixed Asset - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3402655170 - EnumValue 1936001480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dostawca</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Source Type - EnumValue Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4280690963 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Src. Doc. Type - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4280690963 - EnumValue 2004364593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Faktura korygująca</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Src. Doc. Type - EnumValue Credit Memo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4280690963 - EnumValue 2503914580 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nota odsetkowa</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Src. Doc. Type - EnumValue Finance Charge Memo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4280690963 - EnumValue 821689635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Faktura</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Src. Doc. Type - EnumValue Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4280690963 - EnumValue 3346365350 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Płatność</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Src. Doc. Type - EnumValue Payment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4280690963 - EnumValue 4028787690 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zwrot</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Src. Doc. Type - EnumValue Refund - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4280690963 - EnumValue 87408810 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Monit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Prod. Settl. Src. Doc. Type - EnumValue Reminder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4103271527 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Settlement Type - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4103271527 - EnumValue 2573847538 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kompletacja</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Settlement Type - EnumValue Assembly - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4103271527 - EnumValue 2818324089 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zlecenie</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Settlement Type - EnumValue Job - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4103271527 - EnumValue 1065337893 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Produkcja</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SC Settlement Type - EnumValue Production - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

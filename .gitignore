@@ -1,0 +1,11 @@
+**/*.app
+**/*.url
+*.xml
+*.txt
+!extensionsPermissionSet.xml
+**/launch.json
+**/rad.json
+.altemplates/
+.snapshots/
+**/.alpackages/
+.alcache/
